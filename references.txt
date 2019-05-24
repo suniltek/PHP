@@ -1,0 +1,5 @@
+https://nlink.tech/codebase/2018/08/10/submitting-bootstrap-validator-form-using-ajax-php/
+
+https://makitweb.com/return-json-response-ajax-using-jquery-php/
+
+https://www.bladephp.co/bootstrapvalidator-after-submit-form-using-ajax-php
